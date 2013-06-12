@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">通話費</string>
+    <string name="rate_setting">費率設定</string>
+    <string name="np_setting">門號可攜</string>
+    <string name="hot_setting">熱線設定</string>
+    <string name="vendor">門號業者</string>
+    <string name="innet">網內</string>
+    <string name="outnet">網外</string>
+    <string name="other">市話</string>
+    <string name="hotline">熱線</string>
+    <string name="innetsms">網內簡訊</string>
+    <string name="outnetsms">網外簡訊</string>
+    <string name="freetime">贈送通話</string>
+    <string name="add">新增</string>
+    <string name="empty"></string>
+    <string name="delete">刪除</string>
+</resources>
